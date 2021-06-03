@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/vidly_testing",
+  "port": "3001",
+  "environment": "dev"
+}
